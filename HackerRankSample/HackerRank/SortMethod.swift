@@ -7,3 +7,17 @@
 //
 
 import Foundation
+
+extension ViewController {
+    func sortMethod(arr: [Int]) {
+        var a = arr.sorted(by: >)   // 降順
+        var b = arr.sorted(by: <)   // 昇順
+        print("\(a), \(b)")
+        a.removeLast()
+        b.removeLast()
+        print("\(a), \(b)")
+        
+        let plus = { (a: Int, b: Int) -> Int in a + b }
+        print("\(b.reduce(0, plus)) \(a.reduce(0, plus))")
+    }
+}

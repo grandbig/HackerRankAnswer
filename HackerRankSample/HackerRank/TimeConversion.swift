@@ -7,3 +7,16 @@
 //
 
 import Foundation
+
+extension ViewController {
+    func timeConversion(s: String) -> String {
+        
+        let dateFormatter = DateFormatter()
+        dateFormatter.dateFormat = "h:mm:ssa"
+        let date = dateFormatter.date(from: s)
+        
+        dateFormatter.dateFormat = "HH:mm:ss"
+        dateFormatter.timeZone = TimeZone(abbreviation: "UTC")
+        return dateFormatter.string(from: date!)
+    }
+}

@@ -7,3 +7,12 @@
 //
 
 import Foundation
+
+extension ViewController {
+    func birthdayCakeCandles(arr: [Int]) {
+        let numbers = arr.compactMap { Int($0) }
+        let maxNumber = numbers.max()
+        let occurrences = numbers.filter { $0 == maxNumber }
+        print(occurrences.count)
+    }
+}
