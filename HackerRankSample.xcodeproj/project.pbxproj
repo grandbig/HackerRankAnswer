@@ -13,6 +13,10 @@
 		2E0C7E5920E8740D00596C93 /* CountUpper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0C7E5820E8740D00596C93 /* CountUpper.swift */; };
 		2E0C7E5B20E8743000596C93 /* SortMethod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0C7E5A20E8743000596C93 /* SortMethod.swift */; };
 		2E0C7E5D20E877A400596C93 /* BreakingRecords.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0C7E5C20E877A400596C93 /* BreakingRecords.swift */; };
+		2E0C7E5F20EE552700596C93 /* RepeatedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0C7E5E20EE552700596C93 /* RepeatedString.swift */; };
+		2E0C7E6120EE558700596C93 /* CountAppleAndOranges.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0C7E6020EE558700596C93 /* CountAppleAndOranges.swift */; };
+		2E0C7E6320EE55AD00596C93 /* HurdleRace.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0C7E6220EE55AD00596C93 /* HurdleRace.swift */; };
+		2E0C7E6520EE55D500596C93 /* DivisibleSumPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0C7E6420EE55D500596C93 /* DivisibleSumPairs.swift */; };
 		2E1E5A6C20CAA9B0007FFE4F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E1E5A6B20CAA9B0007FFE4F /* AppDelegate.swift */; };
 		2E1E5A6E20CAA9B0007FFE4F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E1E5A6D20CAA9B0007FFE4F /* ViewController.swift */; };
 		2E1E5A7120CAA9B0007FFE4F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E1E5A6F20CAA9B0007FFE4F /* Main.storyboard */; };
@@ -46,6 +50,10 @@
 		2E0C7E5820E8740D00596C93 /* CountUpper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUpper.swift; sourceTree = "<group>"; };
 		2E0C7E5A20E8743000596C93 /* SortMethod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SortMethod.swift; sourceTree = "<group>"; };
 		2E0C7E5C20E877A400596C93 /* BreakingRecords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreakingRecords.swift; sourceTree = "<group>"; };
+		2E0C7E5E20EE552700596C93 /* RepeatedString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepeatedString.swift; sourceTree = "<group>"; };
+		2E0C7E6020EE558700596C93 /* CountAppleAndOranges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountAppleAndOranges.swift; sourceTree = "<group>"; };
+		2E0C7E6220EE55AD00596C93 /* HurdleRace.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HurdleRace.swift; sourceTree = "<group>"; };
+		2E0C7E6420EE55D500596C93 /* DivisibleSumPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivisibleSumPairs.swift; sourceTree = "<group>"; };
 		2E1E5A6820CAA9B0007FFE4F /* HackerRankSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HackerRankSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E1E5A6B20CAA9B0007FFE4F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2E1E5A6D20CAA9B0007FFE4F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -95,6 +103,10 @@
 				2E0C7E5A20E8743000596C93 /* SortMethod.swift */,
 				2E0C7E5220E8730F00596C93 /* StairCase.swift */,
 				2E0C7E5620E8738400596C93 /* TimeConversion.swift */,
+				2E0C7E5E20EE552700596C93 /* RepeatedString.swift */,
+				2E0C7E6020EE558700596C93 /* CountAppleAndOranges.swift */,
+				2E0C7E6220EE55AD00596C93 /* HurdleRace.swift */,
+				2E0C7E6420EE55D500596C93 /* DivisibleSumPairs.swift */,
 			);
 			path = HackerRank;
 			sourceTree = "<group>";
@@ -282,14 +294,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E0C7E6120EE558700596C93 /* CountAppleAndOranges.swift in Sources */,
 				2E0C7E5920E8740D00596C93 /* CountUpper.swift in Sources */,
 				2E0C7E5320E8730F00596C93 /* StairCase.swift in Sources */,
+				2E0C7E5F20EE552700596C93 /* RepeatedString.swift in Sources */,
 				2E0C7E5720E8738400596C93 /* TimeConversion.swift in Sources */,
 				2E0C7E5520E8735E00596C93 /* BirthdayCakeCandles.swift in Sources */,
 				2E1E5A6E20CAA9B0007FFE4F /* ViewController.swift in Sources */,
 				2E0C7E5D20E877A400596C93 /* BreakingRecords.swift in Sources */,
 				2E0C7E5B20E8743000596C93 /* SortMethod.swift in Sources */,
+				2E0C7E6520EE55D500596C93 /* DivisibleSumPairs.swift in Sources */,
 				2E1E5A6C20CAA9B0007FFE4F /* AppDelegate.swift in Sources */,
+				2E0C7E6320EE55AD00596C93 /* HurdleRace.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
