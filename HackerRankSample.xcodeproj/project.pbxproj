@@ -19,6 +19,7 @@
 		2E0C7E6520EE55D500596C93 /* DivisibleSumPairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0C7E6420EE55D500596C93 /* DivisibleSumPairs.swift */; };
 		2E0C7EA920F1E6C400596C93 /* ViralAdvertising.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0C7EA820F1E6C400596C93 /* ViralAdvertising.swift */; };
 		2E0C7EAB20F24E2200596C93 /* CatAndMouse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0C7EAA20F24E2200596C93 /* CatAndMouse.swift */; };
+		2E0C7EAD20F257DB00596C93 /* DesignerPdfViewer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E0C7EAC20F257DB00596C93 /* DesignerPdfViewer.swift */; };
 		2E1E5A6C20CAA9B0007FFE4F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E1E5A6B20CAA9B0007FFE4F /* AppDelegate.swift */; };
 		2E1E5A6E20CAA9B0007FFE4F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E1E5A6D20CAA9B0007FFE4F /* ViewController.swift */; };
 		2E1E5A7120CAA9B0007FFE4F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E1E5A6F20CAA9B0007FFE4F /* Main.storyboard */; };
@@ -58,6 +59,7 @@
 		2E0C7E6420EE55D500596C93 /* DivisibleSumPairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DivisibleSumPairs.swift; sourceTree = "<group>"; };
 		2E0C7EA820F1E6C400596C93 /* ViralAdvertising.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViralAdvertising.swift; sourceTree = "<group>"; };
 		2E0C7EAA20F24E2200596C93 /* CatAndMouse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatAndMouse.swift; sourceTree = "<group>"; };
+		2E0C7EAC20F257DB00596C93 /* DesignerPdfViewer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignerPdfViewer.swift; sourceTree = "<group>"; };
 		2E1E5A6820CAA9B0007FFE4F /* HackerRankSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HackerRankSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E1E5A6B20CAA9B0007FFE4F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2E1E5A6D20CAA9B0007FFE4F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 				2E0C7E6420EE55D500596C93 /* DivisibleSumPairs.swift */,
 				2E0C7EA820F1E6C400596C93 /* ViralAdvertising.swift */,
 				2E0C7EAA20F24E2200596C93 /* CatAndMouse.swift */,
+				2E0C7EAC20F257DB00596C93 /* DesignerPdfViewer.swift */,
 			);
 			path = HackerRank;
 			sourceTree = "<group>";
@@ -305,6 +308,7 @@
 				2E0C7E5920E8740D00596C93 /* CountUpper.swift in Sources */,
 				2E0C7E5320E8730F00596C93 /* StairCase.swift in Sources */,
 				2E0C7E5F20EE552700596C93 /* RepeatedString.swift in Sources */,
+				2E0C7EAD20F257DB00596C93 /* DesignerPdfViewer.swift in Sources */,
 				2E0C7E5720E8738400596C93 /* TimeConversion.swift in Sources */,
 				2E0C7E5520E8735E00596C93 /* BirthdayCakeCandles.swift in Sources */,
 				2E1E5A6E20CAA9B0007FFE4F /* ViewController.swift in Sources */,
